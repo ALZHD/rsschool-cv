@@ -15,7 +15,7 @@ alexanderzhdanovich95@gmail.com [![FB](https://upload.wikimedia.org/wikipedia/co
 
 ##### Bachelor and Master degrees || Law (GPA: 8/10) 2013-2019
 *Higher School of Economics*, Faculty of law
-#### 
+ 
 
 ---
 
