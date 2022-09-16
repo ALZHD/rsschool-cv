@@ -46,6 +46,6 @@ Socket io, React- Redux
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen)
 
-[fb]: <https://github.com/joemccann/dillinger>
+[fb]: <https://www.facebook.com/alexander.zhdanovich.3>
 [tg]: <t.me/Alexander_Zhdanovich>
 [linkedin]: <https://www.linkedin.com/in/alexanderzhdanovich/>
