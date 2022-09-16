@@ -18,12 +18,14 @@ alexanderzhdanovich95@gmail.com [![FB](https://upload.wikimedia.org/wikipedia/co
 #### 
 
 ---
+
 ### Ongoing IT Experience
 ##### Gedza December 2021 – present
 *Web App serving to use information contained CRMs for design layout creation*
 * requesting to commercial a CRM’s API for information required for layout
 * creating and developing new React components, containers and APIs
 * developing front end pages using HTML, CSS, and vanilla JS
+
 ---
 
 ### Previous work experience
@@ -31,7 +33,9 @@ alexanderzhdanovich95@gmail.com [![FB](https://upload.wikimedia.org/wikipedia/co
 * drafting, negotiating and reviewing licensing/IP acquisition agreements
 * conducting legal advice on data protection matters
 * structuring asset deals for acquisition of tech-startup projects
+
 ---
+
 ### Languages
 Russian (native), English (fluent), French (beginner)
 
@@ -55,8 +59,4 @@ Socket io, React- Redux
 [linkedin]: <https://www.linkedin.com/in/alexanderzhdanovich/>
 
 
-<style>
-LIn{
-    color:red;
-}
-</style>
+
