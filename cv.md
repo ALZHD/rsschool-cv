@@ -4,7 +4,7 @@
 
 Yerevan | +374 (93) 741135 | Moscow | +7 (916) 709-75-50 |
 | ------- | ------ |
-alexanderzhdanovich95@gmail.com [![Build Status](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png)](https://www.facebook.com/alexander.zhdanovich.3)
+alexanderzhdanovich95@gmail.com [![Build Status](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png/resize.p.20)](https://www.facebook.com/alexander.zhdanovich.3)
 
 [tg] [linkedin]
 
