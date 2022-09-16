@@ -4,9 +4,11 @@
 
 Yerevan | +374 (93) 741135 | Moscow | +7 (916) 709-75-50 |
 
-alexanderzhdanovich95@gmail.com [![FB](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/40px-Facebook_Logo_%282019%29.png?x-oss-procees=image/watermark/resize,p_50)](https://www.facebook.com/alexander.zhdanovich.3) [![TG](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/40px-Telegram_2019_Logo.svg.png?x-oss-procees=image/watermark/resize,p_50)](https://t.me/Alexander_Zhdanovich) [![LIn](https://png.monster/wp-content/uploads/2022/02/png.monster-570.png?resize,w_30,h_30)](https://www.linkedin.com/in/alexanderzhdanovich/)
+alexanderzhdanovich95@gmail.com [![FB](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/40px-Facebook_Logo_%282019%29.png?x-oss-procees=image/watermark/resize,p_50)](https://www.facebook.com/alexander.zhdanovich.3) [![TG](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/40px-Telegram_2019_Logo.svg.png?x-oss-procees=image/watermark/resize,p_50)](https://t.me/Alexander_Zhdanovich) 
 
+<img src="https://png.monster/wp-content/uploads/2022/02/png.monster-570.png" alt="LIn" width="50" height="50"/>
 
+<!-- [![LIn](https://png.monster/wp-content/uploads/2022/02/png.monster-570.png)](https://www.linkedin.com/in/alexanderzhdanovich/) -->
 
 
 
@@ -51,3 +53,10 @@ Socket io, React- Redux
 [fb]: <https://www.facebook.com/alexander.zhdanovich.3>
 [tg]: <t.me/Alexander_Zhdanovich>
 [linkedin]: <https://www.linkedin.com/in/alexanderzhdanovich/>
+
+
+<style>
+LIn{
+    color:red;
+}
+</style>
