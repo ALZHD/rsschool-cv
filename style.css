@@ -128,3 +128,8 @@ footer {
   flex-direction: column;
     display: flex;
 }
+
+.footerimage {
+    width: 7ch;
+    height:7ch
+ }
