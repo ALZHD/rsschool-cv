@@ -42,7 +42,7 @@ width: 113.5ch}
     border-style: solid;
 }
 
-#name{text-align: center; font-size: 185%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: azure;
+.name{text-align: center; font-size: 185%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: azure;
     padding-top: 150px}
 
 .content{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: aliceblue;
