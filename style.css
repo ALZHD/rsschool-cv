@@ -6,15 +6,15 @@ margin: auto;}
 .banner {background: linear-gradient(217deg, rgba(62, 131, 166, 0.8), rgba(0, 247, 255, 0) 70.71%),
     linear-gradient(127deg, rgba(0, 123, 255, 0.906), rgba(174, 133, 139, 0.856) 70.71%),
     linear-gradient(336deg, rgba(223, 223, 238, 0.8), rgba(0,0,255,0) 70.71%);; overflow: hidden;
-width: 113.5ch} 
+width: 113.5ch}
 
-.part1{text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: aliceblue; 
+.part1{text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: aliceblue;
     height: 50px;
 }
 
 
 .intro{
-    border-spacing: 90px 10px  
+    border-spacing: 90px 10px
 }
 
 .myinfo {
@@ -37,7 +37,7 @@ width: 113.5ch}
     background: linear-gradient(0.25turn, #3f87a680, #e1e9f887, #f69c3c49);;width: 113.5ch; margin-top: 3ch;
 }
 
-.contacts img{border-radius: 100%; margin-right: 13ch; margin-left: 16ch; height: 300%; 
+.contacts img{border-radius: 100%; margin-right: 13ch; margin-left: 16ch; height: 300%;
     border-color: #f3f5f7;
     border-style: solid;
 }
@@ -50,14 +50,14 @@ width: 113.5ch}
 
 
 .legal{
-    position:relative;   
+    position:relative;
     width:300px;
     height:400px;
     background:linear-gradient(#159193, #aabce1);
     margin:5px auto;
-    
-    
-    
+
+
+
 }
 .block1{
     position:absolute;
@@ -68,7 +68,7 @@ width: 113.5ch}
     background:#368ea4e9;
     padding:5px;
     display:none;
-    
+
 }
 .legal:hover .block1{
     display:block;
@@ -76,7 +76,7 @@ width: 113.5ch}
 }
 
 .front-end{
-    position:relative;   
+    position:relative;
     width:300px;
     height:400px;
     background:linear-gradient(#c0ca0b, #bdcae3);
@@ -91,7 +91,7 @@ width: 113.5ch}
     background:rgba(174, 178, 69, 0.832);
     padding:5px;
     display:none;
-    
+
 }
 .front-end:hover .block2{
     display:block;
@@ -99,7 +99,7 @@ width: 113.5ch}
 
 
 .music{
-    position:relative;   
+    position:relative;
     width:300px;
     height:400px;
     background:linear-gradient(#841593, #aabce1);
@@ -133,3 +133,13 @@ footer {
     width: 7ch;
     height:7ch
  }
+
+
+ code {
+    font-size: x-large;
+ }
+
+ .hello{
+    display: flex;
+flex-direction: column;
+margin-top: 5ch;}
